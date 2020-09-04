@@ -48,11 +48,10 @@ class App extends Component {
         markers.addLayer(L.marker([lat, lon])
           .bindPopup(
             `<div>
-              <div>${data[i].properties.name}</div>
+              <h3>${data[i].properties.name}</h3>
               <div>${data[i].properties.address}</div>
               <div>${data[i].properties.phone}</div>
-              <div>大人: ${adult}</div>
-              <div>小孩: ${child}</div>
+              <h5>大人: ${adult}<span class="child-span">小孩: ${child}</span></h5>
             </div>`
           ));
       }
