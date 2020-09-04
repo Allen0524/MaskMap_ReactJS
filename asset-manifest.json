@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MaskMap_ReactJS/static/css/main.23e18b39.chunk.css",
-    "main.js": "/MaskMap_ReactJS/static/js/main.867b32e5.chunk.js",
-    "main.js.map": "/MaskMap_ReactJS/static/js/main.867b32e5.chunk.js.map",
+    "main.css": "/MaskMap_ReactJS/static/css/main.557a25b4.chunk.css",
+    "main.js": "/MaskMap_ReactJS/static/js/main.1ab028db.chunk.js",
+    "main.js.map": "/MaskMap_ReactJS/static/js/main.1ab028db.chunk.js.map",
     "runtime-main.js": "/MaskMap_ReactJS/static/js/runtime-main.011c34b0.js",
     "runtime-main.js.map": "/MaskMap_ReactJS/static/js/runtime-main.011c34b0.js.map",
     "static/js/2.09505c99.chunk.js": "/MaskMap_ReactJS/static/js/2.09505c99.chunk.js",
     "static/js/2.09505c99.chunk.js.map": "/MaskMap_ReactJS/static/js/2.09505c99.chunk.js.map",
     "index.html": "/MaskMap_ReactJS/index.html",
-    "precache-manifest.5b27af52b97f5e7962e706dd0bb163c7.js": "/MaskMap_ReactJS/precache-manifest.5b27af52b97f5e7962e706dd0bb163c7.js",
+    "precache-manifest.c44e1683dba518459c2bfcc28ed3d613.js": "/MaskMap_ReactJS/precache-manifest.c44e1683dba518459c2bfcc28ed3d613.js",
     "service-worker.js": "/MaskMap_ReactJS/service-worker.js",
-    "static/css/main.23e18b39.chunk.css.map": "/MaskMap_ReactJS/static/css/main.23e18b39.chunk.css.map",
+    "static/css/main.557a25b4.chunk.css.map": "/MaskMap_ReactJS/static/css/main.557a25b4.chunk.css.map",
     "static/js/2.09505c99.chunk.js.LICENSE.txt": "/MaskMap_ReactJS/static/js/2.09505c99.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.011c34b0.js",
     "static/js/2.09505c99.chunk.js",
-    "static/css/main.23e18b39.chunk.css",
-    "static/js/main.867b32e5.chunk.js"
+    "static/css/main.557a25b4.chunk.css",
+    "static/js/main.1ab028db.chunk.js"
   ]
 }
